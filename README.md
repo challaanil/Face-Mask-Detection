@@ -4,4 +4,3 @@
 ## First Download Object Detecion official code from here
 ## Then Download this Repository via GIT or zip.
 ## Download Training.zip
-##[Amil]
